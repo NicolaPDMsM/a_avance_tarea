@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(173, 173, 173);
+}
+.tabla{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.tabla td{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.segunda_fila{
+    font-size: 36px;
+    text-align: center;
+}
